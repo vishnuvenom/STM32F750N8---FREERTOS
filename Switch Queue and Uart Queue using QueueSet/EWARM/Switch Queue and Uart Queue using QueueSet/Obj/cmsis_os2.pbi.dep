@@ -1,0 +1,32 @@
+cmsis_os2.pbi: \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2\cmsis_os2.c \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Full.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\Middlewares\Third_Party\FreeRTOS\Source\CMSIS_RTOS_V2/cmsis_os2.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stddef.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Drivers/CMSIS/Include\cmsis_compiler.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Drivers/CMSIS/Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include\FreeRTOS.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Core/Inc\FreeRTOSConfig.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/portable/IAR/ARM_CM7/r0p1\portmacro.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\intrinsics.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iar_intrinsics_common.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include\task.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/list.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include\event_groups.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/timers.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/task.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include\semphr.h \
+  D:\FREERTOS\Switch\ Queue\ and\ Uart\ Queue\ using\ QueueSet\EWARM/../Middlewares/Third_Party/FreeRTOS/Source/include/queue.h
